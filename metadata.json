@@ -1,0 +1,6 @@
+{
+  "name": "GramSetu: Rural Agricultural Operating System",
+  "description": "Resilient agricultural operating system with offline SMS/USSD workflows, real net-profit logistics calculators, verified expert escalation pipelines, transparent data provenance badging, and Gram Mitra consent tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
